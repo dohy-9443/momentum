@@ -3,3 +3,8 @@
 body {
   background-color: beige;
 }
+
+ul,
+li {
+  list-style: none;
+}
